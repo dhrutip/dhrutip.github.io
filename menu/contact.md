@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Feel free to reach out to me at <dpandya@berkeley.edu> or connect with me on [Linkedin](https://www.linkedin.com/in/dhrutipandya/). I'd love to chat about my writing, tech, good food, or anything else that's on your mind!
