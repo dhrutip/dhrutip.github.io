@@ -9,7 +9,7 @@ I'm Dhruti (she/her), an undergraduate at [UC Berkeley](https://www.berkeley.edu
 - an incoming software engineering intern at [Meta](https://www.facebook.com/)
 - building Computer Science Kickstart's [website](https://cs-kickstart.berkeley.edu/) for female UC Berkeley freshman interested in technology
 
-In the past, I've
+In the past, I've:
 - designed and built a [mobile app](https://rune-hardboard-bd0.notion.site/gem-4475f976cb8e46f5bfdcfed954a1472b) matching travellers to local hosts at destinations through [Facebook University](https://diversity.fb.com/initiative/facebook-university/)
 - developed an embedded systems user interface for DARPA-backed neurotechnology startup, [Thermaquil](https://www.thermaquil.com/)
 - taught computer science to K-12 students at [Juni Learning](https://junilearning.com/)
